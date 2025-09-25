@@ -1,0 +1,8 @@
+[
+  {
+    "username": "testuser",
+    "password": "123456",
+    "expiry": "2025-12-31",
+    "hwid": []
+  }
+]
